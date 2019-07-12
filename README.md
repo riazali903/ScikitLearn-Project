@@ -1,2 +1,2 @@
 # ScikitLearn-Project
-Machine Learning with ScikitLearn
+Machine Learning with ScikitLearn includes sklearn related work.
